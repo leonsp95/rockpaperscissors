@@ -1,1 +1,3 @@
-rock_paper_scissors
+# Rock, paper, scissors game
+
+ Written in Python
